@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#sidebar {
+    min-height: 100vh;
+    background-color: #333;
+    color: #fff;
+}
+
+#sidebar .navbar-brand {
+    font-size: 24px;
+    padding: 20px 0;
+}
+
+.nav-item {
+    padding: 10px 0;
+}
+
+.nav-item a {
+    color: #fff;
+    text-decoration: none;
+}
+.nav-item1 {
+    color: #fff;
+    text-decoration: none;
+    padding-left: 8%;
+}
+
+.main {
+    padding: 20px;
+}
+
+#postText {
+    resize: none;
+}
+
+.posts p {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#likesCounter {
+    color: purple;
+    font-weight: bold;
+}
